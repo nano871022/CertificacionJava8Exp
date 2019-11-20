@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Nov 19 21:26:40 COT 2019:
+ Iniciando instancia a816c00e-016e-86a2-12fc-00000148f4a8 de Derby, versión The Apache Software Foundation - Apache Derby - 10.15.1.3 - (1853019): 
+en el directorio de base de datos /home/alejo/Documentos/CertificacionJava8Exp/example con el cargador de clases jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69
+Cargado desde file:/home/alejo/Descargas/db-derby-10.15.1.3-bin/lib/derby.jar
+java.vendor=Ubuntu
+java.runtime.version=13+13-Ubuntu-0ubunt1
+user.dir=/home/alejo/Documentos/CertificacionJava8Exp
+os.name=Linux
+os.arch=amd64
+os.version=5.0.0-13-generic
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
