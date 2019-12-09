@@ -1,3 +1,4 @@
+package JDBC.Connect.test1;
 import static java.lang.System.out;
 import static java.lang.System.err;
 import java.sql.*;
@@ -81,7 +82,7 @@ public class JDBCConnect implements Closeable{
 		if(args == null || args.length != 5){
 			throw new IllegalArgumentException("debe suministrar servidor,puerto,usuario,password,nombre base datos");
 		}
-		try(var jdbcConnect = new JDBCConnect(args[0],args[1],args[2],args[3],args[4])){
+		try(JDBCConnect jdbcConnect = new JDBCConnect(args[0],args[1],args[2],args[3],args[4])){
 		jdbcConnect.createConnection().loadStatement().createTable().insert().select();
 		}catch(SQLException | IOException e){
 		print(e);

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 13 12:41:48 COT 2019:
+ Arrancando Derby versión The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835): instancia a816c00e-016e-65db-6926-00001de24e50 
+en el directorio de base de datos D:\workspace\test-javacertificate\demo  con el cargador de clases sun.misc.Launcher$AppClassLoader@73d16e93
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=D:\workspace\test-javacertificate
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
